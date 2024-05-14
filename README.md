@@ -14,8 +14,8 @@ Projeto Portfólio Pessoal do curso <strong><a href="https://www.origamid.com/cu
 <br>
 
 <div align="center">
-  <img width="700" height="auto" src="https://github.com/dev-modesto/Projeto-Portfolio-Origamid/assets/122651099/8215537c-8c35-4892-bb5c-c3d8bcb9e53e">
-  <img width="200" height="auto"  src="https://github.com/dev-modesto/Projeto-Portfolio-Origamid/assets/122651099/3429fbb9-1327-4ef8-950b-9712f880c3f0">
+  <img width="500" height="auto" src="https://github.com/dev-modesto/Projeto-Portfolio-Origamid/assets/122651099/8215537c-8c35-4892-bb5c-c3d8bcb9e53e">
+  <img width="140" height="auto"  src="https://github.com/dev-modesto/Projeto-Portfolio-Origamid/assets/122651099/3429fbb9-1327-4ef8-950b-9712f880c3f0">
 </div>
 
 <br>
